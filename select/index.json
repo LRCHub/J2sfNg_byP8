@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ミチシルベ 〜a road home〜",
+  "base_artist": "ORANGE RANGE",
+  "createdAt": "2025-12-18T15:09:11.012735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミチシルベ 〜a road home〜",
+      "artist": "Orange Range",
+      "has_synced": false,
+      "path": "select/01_ミチシルベ_〜a_road_home〜_Orange_Range.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミチシルベ ～a road home～",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/02_ミチシルベ_~a_road_home~_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミチシルベ 〜a road home〜",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/03_ミチシルベ_〜a_road_home〜_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミチシルベ～a road home～",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/04_ミチシルベ~a_road_home~_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミチシルベ ～a road home～",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_01_ミチシルベ_~a_road_home~_ORANGE_RANGE.txt"
+    }
+  ]
+}
